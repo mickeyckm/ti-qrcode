@@ -3,6 +3,11 @@ ti-qrcode
 
 **ti-qrcode** is a QR code generator for Titanium Appcelerator. This is a WebView wrapper for the [Javascript QR code generator](http://code.google.com/p/jsqrencode/). 
 
+Why another module?
+-------------------
+
+At the time of writing, there aren't any free implementation and works offline. Read more about it on my [blog](http://mickeyckm.com/free-qr-code-generator-on-titanium-appcelerator). 
+
 Setup
 -----
 
